@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Check out the live url [here] (https://devmayor15.github.io/password-generator/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
